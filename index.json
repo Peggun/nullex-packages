@@ -4,6 +4,6 @@
     "version": "0.1.0",
     "description": "A dummy binary file for testing updates.",
     "url": "packages/test-pkg.elf",
-    "sha256": "1234567890abcdefghijklmnopqrstuvwxyz"
+    "sha256": "b5be66f09e8bf56783971df62c0c47cfb2c98ee11bed0be130861cf32e3413ce"
   }
 ]
