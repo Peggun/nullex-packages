@@ -1,14 +1,9 @@
 [
   {
-    "name": "hello",
-    "version": "1.0.0",
-    "description": "A simple hello world text file to test nget.",
-    "url": "packages/hello.txt"
-  },
-  {
     "name": "test-pkg",
     "version": "0.1.0",
     "description": "A dummy binary file for testing updates.",
-    "url": "packages/test-pkg.bin"
+    "url": "packages/test-pkg.elf",
+    "sha256": "1234567890abcdefghijklmnopqrstuvwxyz"
   }
 ]
